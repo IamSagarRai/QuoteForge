@@ -23,7 +23,7 @@ To explore the world of wisdom and motivation with QuoteForge, follow these simp
 1. **Clone the Repository**: Begin by cloning this GitHub repository to your local machine.
 
    ```bash
-   git clone [https://github.com/your-username/quoteforge.git](https://github.com/PoIsOn-CoDe/QuoteForge.git)
+   git clone [https://github.com/PoIsOn-CoDe/QuoteForge.git]
    ```
 
 2. **Install Dependencies**: Move into the project directory and install the required dependencies.
